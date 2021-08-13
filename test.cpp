@@ -25,6 +25,7 @@ using cparse::evaluationData;
 using cparse::rpnBuilder;
 using cparse::REF;
 
+
 /* * * * * Operation class: * * * * */
 
 // Convert a type into an unique mask for bit wise operations:

@@ -25,19 +25,6 @@ using cparse::evaluationData;
 using cparse::rpnBuilder;
 using cparse::REF;
 
-using cparse::calculator;
-using cparse::packToken;
-using cparse::TokenBase;
-using cparse::TokenMap;
-using cparse::RefToken;
-using cparse::Operation;
-using cparse::opID_t;
-using cparse::Config_t;
-using cparse::typeMap_t;
-using cparse::TokenQueue_t;
-using cparse::evaluationData;
-using cparse::rpnBuilder;
-using cparse::REF;
 
 /* * * * * Operation class: * * * * */
 

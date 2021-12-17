@@ -10,7 +10,7 @@ using cparse::TokenList;
 using cparse::TokenMap;
 using cparse::CppFunction;
 
-/* * * * * class Function * * * * */
+/* * * * * class Function * * * * * */
 packToken Function::call(packToken _this, const Function* func,
                          TokenList* args, TokenMap scope) {
   // Build the local namespace:

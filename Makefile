@@ -1,4 +1,4 @@
-EXE = test-shunting-yard
+EXE = test-shunting-yards
 CORE_SRC = shunting-yard.cpp packToken.cpp functions.cpp containers.cpp
 SRC = $(EXE).cpp $(CORE_SRC) builtin-features.cpp catch.cpp
 OBJ = $(SRC:.cpp=.o)
